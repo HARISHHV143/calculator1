@@ -1,0 +1,47 @@
+
+h2{
+    color:crimson
+}
+body{
+    height: 200px;
+    width: 200px;
+    margin: 200px 0px 0px 600px;
+    background:url('https://e0.pxfuel.com/wallpapers/825/94/desktop-wallpaper-laptop-nature-resolution-beautiful.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+}
+table{
+    
+    background-color: cyan;
+
+}
+tr{
+
+    background-color: darkblue;
+}
+td{
+    
+    column-width: 50px;
+    column-rule: darkseagreen;
+    color:rgb(44, 233, 27)
+}
+input{
+    height: 30px;
+    width: 193px;
+    background-color: rgb(139, 233, 110);
+    color:rgb(23, 207, 240)
+    margin: 200px 100px 0px 500px;
+}
+button{
+    height: 45px;
+    width: 45px;
+    background-color: rgb(143, 233, 233);
+    color:rgb(17, 31, 226)
+}
+button:hover
+{
+    height: 43px;
+    width: 43px;
+    background-color: rgb(226, 199, 110);
+    color:rgb(240, 14, 14)
+}
